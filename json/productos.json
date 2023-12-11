@@ -52,28 +52,32 @@
         "price": 3499.99,
         "stock": 7,
         "sale": false,
-        "category": 4
+        "category": 4,
+        "img": "../assets/products-img/reloj-pulsera-plateada"
     },
     {
         "productName": "Reloj Inteligente con Pantalla Táctil",
         "price": 8999.99,
         "stock": 15,
         "sale": true,
-        "category": 4
+        "category": 4,
+        "img": "../assets/product-img/smartwatch-negro"
     },
     {
         "productName": "Zapatillas Deportivas Blancas",
         "price": 11999.99,
         "stock": 18,
         "sale": false,
-        "category": 5
+        "category": 5,
+        "img": "../assets/products-img/zapatilla-deportiva-blanca"
     },
     {
         "productName": "Zapatillas Urbanas Negras",
         "price": 13999.99,
         "stock": 10,
         "sale": false,
-        "category": 5
+        "category": 5,
+        "img": "..assets/products-img/zapatilla-deportiva-negra"
     },
     {
         "productName": "Vestido Midi Azul Marino",
