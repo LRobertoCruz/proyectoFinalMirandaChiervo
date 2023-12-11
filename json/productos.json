@@ -1,0 +1,126 @@
+[
+    {
+        "productName": "Vestido Rojo Elegante",
+        "price": 19999.99,
+        "stock": 15,
+        "sale": false,
+        "category": 1,
+        "img": "../assets/products-img/vestido-fino-rojo.jpg"
+    },
+    {
+        "productName": "Vestido Estampado Floral",
+        "price": 22999.99,
+        "stock": 10,
+        "sale": true,
+        "category": 1,
+        "img": "../assets/products-img/vestido-estampado-floral.jpg"
+    },
+    {
+        "productName": "Chaleco de Cuero Marrón",
+        "price": 7999.99,
+        "stock": 8,
+        "sale": false,
+        "category": 2,
+        "img": "../assets/products-img/chaleco-cuero-marron"
+    },
+    {
+        "productName": "Chaleco de Lana Gris",
+        "price": 8999.99,
+        "stock": 5,
+        "sale": false,
+        "category": 2,
+        "img": "../assets/products-img/chaleco-luna-gris"
+    },
+    {
+        "productName": "Pantalones Vaqueros Slim Fit",
+        "price": 15999.99,
+        "stock": 12,
+        "sale": true,
+        "category": 3,
+        "img": "../assets/products-img/pantalon-vaquero-slim-fit"
+    },
+    {
+        "productName": "Pantalones Deportivos Negros",
+        "price": 12999.99,
+        "stock": 20,
+        "sale": false,
+        "category": 3,
+        "img": "../assets/products-img/pantalon-deportivo-negro"
+    },
+    {
+        "productName": "Reloj de Pulsera Plateado",
+        "price": 3499.99,
+        "stock": 7,
+        "sale": false,
+        "category": 4
+    },
+    {
+        "productName": "Reloj Inteligente con Pantalla Táctil",
+        "price": 8999.99,
+        "stock": 15,
+        "sale": true,
+        "category": 4
+    },
+    {
+        "productName": "Zapatillas Deportivas Blancas",
+        "price": 11999.99,
+        "stock": 18,
+        "sale": false,
+        "category": 5
+    },
+    {
+        "productName": "Zapatillas Urbanas Negras",
+        "price": 13999.99,
+        "stock": 10,
+        "sale": false,
+        "category": 5
+    },
+    {
+        "productName": "Vestido Midi Azul Marino",
+        "price": 18999.99,
+        "stock": 12,
+        "sale": false,
+        "category": 1,
+        "img": "../assets/products-img/vestido-midi-azul-marino"
+    },
+    {
+        "productName": "Vestido de Gala Violeta",
+        "price": 25999.99,
+        "stock": 7,
+        "sale": true,
+        "category": 1,
+        "img": "../assets/products-img/vestido-elegante-violeta.jpg"
+    },
+    {
+        "productName": "Chaleco de Punto Rojo",
+        "price": 6999.99,
+        "stock": 15,
+        "sale": false,
+        "category": 2,
+        "img": "../assets/products-img/chaleco-punto-rojo"
+    },
+    {
+        "productName": "Chaleco Acolchado Verde Militar",
+        "price": 8499.99,
+        "stock": 9,
+        "sale": false,
+        "category": 2,
+        "img": "../assets/products-img/chaleco-camuflado"
+    },
+    {
+        "productName": "Pantalones Casuales Beige",
+        "price": 14999.99,
+        "stock": 20,
+        "sale": true,
+        "category": 3,
+        "img": "../assets/products-img/pantalon-casual-beige"
+    },
+    {
+        "productName": "Pantalones de Cuero Marrón",
+        "price": 18999.99,
+        "stock": 10,
+        "sale": false,
+        "category": 3,
+        "img": "../assets/products-img/pantalon-cuero-marron"
+    }
+]
