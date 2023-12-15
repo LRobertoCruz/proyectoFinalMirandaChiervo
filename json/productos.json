@@ -37,7 +37,7 @@
         "stock": 12,
         "sale": true,
         "category": 3,
-        "img": "../assets/products-img/pantalon-vaquero-slim-fit"
+        "img": "../assets/products-img/pantalon-vaquero-slim-fit.jpg"
     },
     {
         "productName": "Pantalones Deportivos Negros",
@@ -45,7 +45,7 @@
         "stock": 20,
         "sale": false,
         "category": 3,
-        "img": "../assets/products-img/pantalon-deportivo-negro"
+        "img": "../assets/products-img/pantalon-deportivo-negro.jpg"
     },
     {
         "productName": "Reloj de Pulsera Plateado",
@@ -53,7 +53,7 @@
         "stock": 7,
         "sale": false,
         "category": 4,
-        "img": "../assets/products-img/reloj-pulsera-plateada"
+        "img": "../assets/products-img/reloj-pulsera-plateada.jpg"
     },
     {
         "productName": "Reloj Inteligente con Pantalla Táctil",
@@ -61,7 +61,7 @@
         "stock": 15,
         "sale": true,
         "category": 4,
-        "img": "../assets/product-img/smartwatch-negro"
+        "img": "../assets/products-img/smartwatch-negro.jpg"
     },
     {
         "productName": "Zapatillas Deportivas Blancas",
@@ -69,7 +69,7 @@
         "stock": 18,
         "sale": false,
         "category": 5,
-        "img": "../assets/products-img/zapatilla-deportiva-blanca"
+        "img": "../assets/products-img/zapatilla-deportiva-blanca.jpg"
     },
     {
         "productName": "Zapatillas Urbanas Negras",
@@ -77,7 +77,7 @@
         "stock": 10,
         "sale": false,
         "category": 5,
-        "img": "..assets/products-img/zapatilla-deportiva-negra"
+        "img": "..assets/products-img/zapatilla-deportiva-negra.jpg"
     },
     {
         "productName": "Vestido Midi Azul Marino",
@@ -85,7 +85,7 @@
         "stock": 12,
         "sale": false,
         "category": 1,
-        "img": "../assets/products-img/vestido-midi-azul-marino"
+        "img": "../assets/products-img/vestido-midi-azul-marino.jpg"
     },
     {
         "productName": "Vestido de Gala Violeta",
@@ -101,7 +101,7 @@
         "stock": 15,
         "sale": false,
         "category": 2,
-        "img": "../assets/products-img/chaleco-punto-rojo"
+        "img": "../assets/products-img/chaleco-punto-rojo.jpg"
     },
     {
         "productName": "Chaleco Acolchado Verde Militar",
@@ -109,7 +109,7 @@
         "stock": 9,
         "sale": false,
         "category": 2,
-        "img": "../assets/products-img/chaleco-camuflado"
+        "img": "../assets/products-img/chaleco-camufladojpg"
     },
     {
         "productName": "Pantalones Casuales Beige",
@@ -117,7 +117,7 @@
         "stock": 20,
         "sale": true,
         "category": 3,
-        "img": "../assets/products-img/pantalon-casual-beige"
+        "img": "../assets/products-img/pantalon-casual-beige.jpg"
     },
     {
         "productName": "Pantalones de Cuero Marrón",
@@ -125,6 +125,6 @@
         "stock": 10,
         "sale": false,
         "category": 3,
-        "img": "../assets/products-img/pantalon-cuero-marron"
+        "img": "../assets/products-img/pantalon-cuero-marron.jpg"
     }
 ]
