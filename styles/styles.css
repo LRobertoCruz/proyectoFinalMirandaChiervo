@@ -8,3 +8,25 @@
 .banner-container img {
     width: 100%;
 }
+
+.footer-container {
+    background-color: aliceblue;
+}
+
+.social-media-container {
+    text-decoration: none;
+    list-style: none;
+}
+
+.social-media-item {
+    text-decoration: none;
+}
+
+.social-media-link {
+    text-decoration: none;
+    color: black;
+}
+
+.social-media-link:hover {
+    color: gray;
+}
