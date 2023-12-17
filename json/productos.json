@@ -24,7 +24,7 @@
         "stock": 8,
         "sale": false,
         "category": 2,
-        "img": "../assets/products-img/chaleco-cuero-marron"
+        "img": "../assets/products-img/chaleco-cuero-marron.jpg"
     },
     {
         "productId": 4,
@@ -33,7 +33,7 @@
         "stock": 5,
         "sale": false,
         "category": 2,
-        "img": "../assets/products-img/chaleco-luna-gris"
+        "img": "../assets/products-img/chaleco-luna-gris.jpg"
     },
     {
         "productId": 5,
@@ -87,7 +87,7 @@
         "stock": 10,
         "sale": false,
         "category": 5,
-        "img": "..assets/products-img/zapatilla-deportiva-negra.jpg"
+        "img": "../assets/products-img/zapatilla-deportiva-negra.jpg"
     },
     {
         "productId": 11,
@@ -123,7 +123,7 @@
         "stock": 9,
         "sale": false,
         "category": 2,
-        "img": "../assets/products-img/chaleco-camufladojpg"
+        "img": "../assets/products-img/chaleco-camuflado.jpg"
     },
     {
         "productId": 15,
