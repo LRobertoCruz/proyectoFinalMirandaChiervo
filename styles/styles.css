@@ -30,3 +30,36 @@
 .social-media-link:hover {
     color: gray;
 }
+
+.cart-card {
+    border: 1px solid black;
+    width: 100%;
+    height: 80px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.img-cart-container {
+    height: 60px;
+    width: 5%;
+    border: 1px solid black;
+    margin: 1rem;
+}
+
+.img-cart-container img {
+    height: 100%;
+    width: 100%;
+}
+
+.count-container {
+    display: flex;
+}
+
+.quantity-container {
+    margin: 4px;
+}
+
+.del-btn {
+    margin-right: 1rem;
+}
